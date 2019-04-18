@@ -1,2 +1,2 @@
 # ProgFuncional-2018-2
-Exercícios de Prática da Linguagem Funcional Racket
+Exercícios Práticos referentes a Linguagem Funcional Racket
